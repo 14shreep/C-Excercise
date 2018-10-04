@@ -1,0 +1,19 @@
+c:\users\gerryo\documents\visual studio 2012\Projects\average_grades\average_grades\bin\Debug\average_grades.exe.config
+c:\users\gerryo\documents\visual studio 2012\Projects\average_grades\average_grades\bin\Debug\average_grades.exe
+c:\users\gerryo\documents\visual studio 2012\Projects\average_grades\average_grades\bin\Debug\average_grades.pdb
+c:\users\gerryo\documents\visual studio 2012\Projects\average_grades\average_grades\obj\Debug\average_grades.exe
+c:\users\gerryo\documents\visual studio 2012\Projects\average_grades\average_grades\obj\Debug\average_grades.pdb
+C:\Users\psrivastava\Downloads\MCSD Certification Code and Test Questions\02\Chapter2_code\Chapter2\average_grades\average_grades\bin\Debug\average_grades.exe.config
+C:\Users\psrivastava\Downloads\MCSD Certification Code and Test Questions\02\Chapter2_code\Chapter2\average_grades\average_grades\bin\Debug\average_grades.exe
+C:\Users\psrivastava\Downloads\MCSD Certification Code and Test Questions\02\Chapter2_code\Chapter2\average_grades\average_grades\bin\Debug\average_grades.pdb
+C:\Users\psrivastava\Downloads\MCSD Certification Code and Test Questions\02\Chapter2_code\Chapter2\average_grades\average_grades\obj\Debug\average_grades.csprojAssemblyReference.cache
+C:\Users\psrivastava\Downloads\MCSD Certification Code and Test Questions\02\Chapter2_code\Chapter2\average_grades\average_grades\obj\Debug\average_grades.csproj.CoreCompileInputs.cache
+C:\Users\psrivastava\Downloads\MCSD Certification Code and Test Questions\02\Chapter2_code\Chapter2\average_grades\average_grades\obj\Debug\average_grades.exe
+C:\Users\psrivastava\Downloads\MCSD Certification Code and Test Questions\02\Chapter2_code\Chapter2\average_grades\average_grades\obj\Debug\average_grades.pdb
+C:\Users\psrivastava\Downloads\C# Training\average_grades\average_grades\bin\Debug\average_grades.exe.config
+C:\Users\psrivastava\Downloads\C# Training\average_grades\average_grades\bin\Debug\average_grades.exe
+C:\Users\psrivastava\Downloads\C# Training\average_grades\average_grades\bin\Debug\average_grades.pdb
+C:\Users\psrivastava\Downloads\C# Training\average_grades\average_grades\obj\Debug\average_grades.csprojAssemblyReference.cache
+C:\Users\psrivastava\Downloads\C# Training\average_grades\average_grades\obj\Debug\average_grades.csproj.CoreCompileInputs.cache
+C:\Users\psrivastava\Downloads\C# Training\average_grades\average_grades\obj\Debug\average_grades.exe
+C:\Users\psrivastava\Downloads\C# Training\average_grades\average_grades\obj\Debug\average_grades.pdb

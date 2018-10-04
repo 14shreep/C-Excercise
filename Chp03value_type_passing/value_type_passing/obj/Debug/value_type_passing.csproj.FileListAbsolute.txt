@@ -1,0 +1,12 @@
+c:\users\gerry\documents\visual studio 2012\Projects\value_type_passing\value_type_passing\bin\Debug\value_type_passing.exe.config
+c:\users\gerry\documents\visual studio 2012\Projects\value_type_passing\value_type_passing\bin\Debug\value_type_passing.exe
+c:\users\gerry\documents\visual studio 2012\Projects\value_type_passing\value_type_passing\bin\Debug\value_type_passing.pdb
+c:\users\gerry\documents\visual studio 2012\Projects\value_type_passing\value_type_passing\obj\Debug\value_type_passing.exe
+c:\users\gerry\documents\visual studio 2012\Projects\value_type_passing\value_type_passing\obj\Debug\value_type_passing.pdb
+C:\Users\psrivastava\Downloads\MCSD Certification Code and Test Questions\03\Chapter3_code\Chapter3\value_type_passing\value_type_passing\bin\Debug\value_type_passing.exe.config
+C:\Users\psrivastava\Downloads\MCSD Certification Code and Test Questions\03\Chapter3_code\Chapter3\value_type_passing\value_type_passing\bin\Debug\value_type_passing.exe
+C:\Users\psrivastava\Downloads\MCSD Certification Code and Test Questions\03\Chapter3_code\Chapter3\value_type_passing\value_type_passing\bin\Debug\value_type_passing.pdb
+C:\Users\psrivastava\Downloads\MCSD Certification Code and Test Questions\03\Chapter3_code\Chapter3\value_type_passing\value_type_passing\obj\Debug\value_type_passing.csprojAssemblyReference.cache
+C:\Users\psrivastava\Downloads\MCSD Certification Code and Test Questions\03\Chapter3_code\Chapter3\value_type_passing\value_type_passing\obj\Debug\value_type_passing.csproj.CoreCompileInputs.cache
+C:\Users\psrivastava\Downloads\MCSD Certification Code and Test Questions\03\Chapter3_code\Chapter3\value_type_passing\value_type_passing\obj\Debug\value_type_passing.exe
+C:\Users\psrivastava\Downloads\MCSD Certification Code and Test Questions\03\Chapter3_code\Chapter3\value_type_passing\value_type_passing\obj\Debug\value_type_passing.pdb
